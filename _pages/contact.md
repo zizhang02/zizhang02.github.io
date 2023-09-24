@@ -8,10 +8,8 @@ redirect_from:
 ---
 
 ## Address
-University of Electronic Science and Technology of China
-
-School of Electronic Science and Engineering
-
+University of Electronic Science and Technology of China<br>
+School of Electronic Science and Engineering<br>
 West Hi-TechZone, Chengdu, Sichuan, 611731, P.R.China
 
 
